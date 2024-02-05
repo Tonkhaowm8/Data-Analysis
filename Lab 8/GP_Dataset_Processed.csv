@@ -1,0 +1,43 @@
+species,(All),,species,(All),,species,(All),,species,(All),,species,(All),,species,(All)
+bacteria_genus,(All),,bacteria_genus,(All),,bacteria_genus,(All),,bacteria_genus,(All),,bacteria_genus,(All),,bacteria_genus,(All)
+submitted_sample,(All),,submitted_sample,(All),,submitted_sample,(All),,submitted_sample,(All),,submitted_sample,(All),,submitted_sample,(All)
+,,,,,,,,,,,,,,,,
+Amikacin,,,Amoxicillin / Clavulanic acid,,,Row Labels,Sum of ans_azithromycin,,Row Labels,Sum of ans_cefalexin,,Cefazolin,,,Cefovecin,
+0,,,0,,,0,0,,0,0,,0,,,0,
+S,553,,S,984,,1,26,,1,963,,S,1610,,S,736
+I,13,,I,2,,,,,Grand Total,963,,I,16,,I,57
+R,44,,R,362,,,,,,,,R,223,,R,831
+1,,,1,,,,,,,,,1,,,1,
+S,132,,S,1213,,,,,,,,S,13,,S,1029
+I,0,,I,0,,,,,,,,I,0,,I,0
+R,0,,R,1,,,,,,,,R,0,,R,2
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+species,(All),,species,(All),,species,(All),,species,(All),,species,(All),,species,(All)
+bacteria_genus,(All),,bacteria_genus,(All),,bacteria_genus,(All),,bacteria_genus,(All),,bacteria_genus,(All),,bacteria_genus,(All)
+submitted_sample,(All),,submitted_sample,(All),,submitted_sample,(All),,submitted_sample,(All),,submitted_sample,(All),,submitted_sample,(All)
+,,,,,,,,,,,,,,,,
+Clindamycin,,,Doxycycline,,,Enrofloxacin,,,Row Labels,Sum of ans_fluconazole,,Row Labels,Sum of ans_fosfomycin,,Gentamicin,
+0,,,0,,,0,,,0,0,,0,0,,0,
+S,547,,S,278,,S,1024,,1,1,,1,9,,S,1504
+I,8,,I,50,,I,349,,,,,,,,I,342
+R,1174,,R,500,,R,1477,,,,,,,,R,603
+1,,,1,,,1,,,,,,,,,1,
+S,884,,S,100,,S,119,,,,,,,,S,76
+I,1,,I,0,,I,0,,,,,,,,I,0
+R,1,,R,0,,R,0,,,,,,,,R,0
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+species,(All),,species,(All),,species,(All),,,,,,,,,
+bacteria_genus,(All),,bacteria_genus,(All),,bacteria_genus,(All),,,,,,,,,
+submitted_sample,(All),,submitted_sample,(All),,submitted_sample,(All),,,,,,,,,
+,,,,,,,,,,,,,,,,
+Row Labels,Sum of ans_imipenem,,Marbofloxacin,,,Minocycline,,,Row Labels,,,,,,,
+0,0,,0,,,0,,,0,,,,,,,
+1,1,,S,1062,,S,370,,1,,,,,,,
+,,,I,122,,I,42,,Grand Total,,,,,,,
+,,,R,1638,,R,356,,,,,,,,,
+,,,1,,,1,,,,,,,,,,
+,,,S,165,,S,1,,,,,,,,,
+,,,I,0,,I,0,,,,,,,,,
+,,,R,0,,R,0,,,,,,,,,
